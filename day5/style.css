@@ -1,0 +1,13 @@
+#bgi{
+    background-image: url(download.jpg);
+}
+#bgc{
+    background-color: orange;
+}
+#lg{
+    background: linear-gradient(20deg, orange, olive, cyan, purple, powderblue, red
+    );
+}
+*{
+    background-color: cadetblue;
+}

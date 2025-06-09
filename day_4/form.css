@@ -1,0 +1,48 @@
+#register {
+  font-size: 32px;
+  text-align: center;
+}
+#a {
+  text-align: center;
+  font-size: 20px;
+}
+#terms {
+  text-align: center;
+  font-size: 20px;
+}
+
+#email,
+#password {
+  border: 2px black solid;
+  border-radius: 0.5cap;
+  padding: 10px;
+  margin-left: 10px;
+  width: 95%;
+  border-right: 100px;
+}
+#button {
+  background-color: lightgreen;
+  color: black;
+  border: 1.5px black solid;
+  border-radius: 3cap;
+  height: 50px;
+  width: 80%;
+  text-align: fixed;
+  font-size: 16px;
+  position: absolute;
+  left: 10%;
+  top: 77%;
+}
+#signin {
+  text-align: center;
+  font-size: 20px;
+}
+#body {
+  margin: 8%;
+  background-color: aliceblue;
+  border: 2px black solid;
+  border-radius: 2cap;
+}
+b {
+  margin-left: 10px;
+}

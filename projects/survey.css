@@ -1,0 +1,32 @@
+#button {
+  background-color: #0085ff;
+  border: 1px solid #0085ff;
+  width: 70px;
+  height: 30px;
+}
+#div {
+  background-color: #D9D9D9;
+  border-radius: 1cap;
+  min-width: 500px;
+}
+.div2 {
+  padding-left: 30px;
+  padding-top: 20px;
+}
+#div3 {
+  padding-left: 80%;
+}
+.text {
+  width: 85%;
+}
+#Code {
+  text-align: center;
+  font-size: 25px;
+  color: #FFFFFF;
+  font-family: 'Times New Roman', Times, serif;
+}
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

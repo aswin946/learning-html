@@ -1,0 +1,47 @@
+#sm {
+  text-align: center;
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+}
+#table {
+  width: 70%;
+  border: 100px;
+  background-color: rgb(195, 194, 194);
+  line-height: 25px;
+  border-right: 100px;
+  margin-left: 140px;
+  padding: 1px;
+}
+#td {
+  border-radius: ;
+  text-align: left;
+  vertical-align: middle;
+  padding: 5px;
+  border: 100px;
+}
+#submit {
+  background-color: lightskyblue;
+  border: 1px lightskyblue solid;
+  border-radius: 1cap;
+  width: 100px;
+  height: 40px;
+  margin-left: 150px;
+}
+#shop {
+  background-color: greenyellow;
+  border: 1px greenyellow solid;
+  border-radius: 1cap;
+  width: 100px;
+  height: 40px;
+  margin-left: 10px;
+}
+#tr1 {
+  background-color: aliceblue;
+}
+#tr2 {
+  background-color: whitesmoke;
+}
+body {
+  margin-left: 200px;
+  margin-top: 80px;
+}
